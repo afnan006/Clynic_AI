@@ -27,6 +27,8 @@ htmlcov/
 .env.*
 *.env
 *.env.*
+.env.example
+
 
 # --- Databases / Local Dev Data ---
 *.sqlite3
