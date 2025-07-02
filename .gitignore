@@ -1,0 +1,68 @@
+# --- Node.js & Frontend ---
+node_modules/
+build/
+dist/
+dist-ssr/
+.cache/
+.nitro/
+.next/
+out/
+*.log
+
+# --- Python / FastAPI / Backend ---
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+site/
+coverage/
+htmlcov/
+.cache/
+
+# --- Env & Secrets ---
+.env
+.env.*
+*.env
+*.env.*
+
+# --- Databases / Local Dev Data ---
+*.sqlite3
+*.db
+*.pkl
+*.json
+instance/
+uploads/
+
+# --- OS & Editor Stuff ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Misc ---
+*.bak
+*.tmp
+*.old
+*.orig
+*.lock
+yarn.lock
+pnpm-lock.yaml
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# --- Git Files ---
+*.orig

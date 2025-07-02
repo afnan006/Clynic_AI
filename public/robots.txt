@@ -1,0 +1,9 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://clynic-ai.com/sitemap.xml
+
+# Disallow access to API endpoints
+Disallow: /api/
