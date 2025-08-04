@@ -314,35 +314,47 @@ afnan006-clynic_ai/
 
 
 
-###📄 License
-- **© 2025 Clynic AI. All Rights Reserved.
-- **This project is proprietary software and is not open source. All rights are reserved by the author(s).
-- **🚫 Restrictions
+### 📄 License
 
-- **❌ No Commercial Use: This software may not be used for commercial purposes
-- **❌ No Distribution: You may not distribute, sublicense, or sell copies of this software
-- **❌ No Modification: You may not modify, adapt, or create derivative works
-- **❌ No Public Use: This software is not available for public use or deployment
-- **❌ No Reverse Engineering: Reverse engineering, decompilation, or disassembly is prohibited
+- **© 2025 Clynic AI. All Rights Reserved.**
+- **This project is proprietary software and is not open source. All rights are reserved by the author(s).**
 
-- **✅ Permitted Uses
+---
 
-- **✅ Viewing: You may view the source code for educational and reference purposes only
-- **✅ Learning: You may study the code structure and implementation patterns
-- **✅ Portfolio Review: Authorized parties may review this code for evaluation purposes
+#### 🚫 Restrictions
 
-- **📜 License Terms
-- **This software and its source code is the exclusive property of the author(s). Any use, reproduction, or distribution of this software, in whole or in part, requires explicit written permission from the copyright holder(s).
-- **By accessing this repository, you agree to:
+- **❌ No Commercial Use:** This software may not be used for commercial purposes.
+- **❌ No Distribution:** You may not distribute, sublicense, or sell copies of this software.
+- **❌ No Modification:** You may not modify, adapt, or create derivative works.
+- **❌ No Public Use:** This software is not available for public use or deployment.
+- **❌ No Reverse Engineering:** Reverse engineering, decompilation, or disassembly is prohibited.
 
-- **Not use this software for any commercial or production purposes
-- **Not distribute or share this software with third parties
-- **Not create derivative works based on this software
-- **Respect the intellectual property rights of the author(s)
+---
 
-- **⚖️ Legal Notice
-- **Unauthorized use, reproduction, or distribution of this software may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
-- **For licensing inquiries or permission requests, please contact: legal@clynic-ai.com
+#### ✅ Permitted Uses
+
+- **✅ Viewing:** You may view the source code for educational and reference purposes only.
+- **✅ Learning:** You may study the code structure and implementation patterns.
+- **✅ Portfolio Review:** Authorized parties may review this code for evaluation purposes.
+
+---
+
+#### 📜 License Terms
+
+- **This software and its source code is the exclusive property of the author(s). Any use, reproduction, or distribution of this software, in whole or in part, requires explicit written permission from the copyright holder(s).**
+- **By accessing this repository, you agree to:**
+
+  - Not use this software for any commercial or production purposes.
+  - Not distribute or share this software with third parties.
+  - Not create derivative works based on this software.
+  - Respect the intellectual property rights of the author(s).
+
+---
+
+#### ⚖️ Legal Notice
+
+- **Unauthorized use, reproduction, or distribution of this software may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.**
+- **For licensing inquiries or permission requests, please contact:** [legal@clynic-ai.com](mailto:legal@clynic-ai.com)
 
 
 ## 🙏 Acknowledgments
