@@ -1,6 +1,5 @@
 # Clynic AI - AI-Powered Healthcare Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-green)](https://www.hhs.gov/hipaa/)
@@ -354,8 +353,6 @@ afnan006-clynic_ai/
 #### ⚖️ Legal Notice
 
 - **Unauthorized use, reproduction, or distribution of this software may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.**
-- **For licensing inquiries or permission requests, please contact:** [legal@clynic-ai.com](mailto:legal@clynic-ai.com)
-
 
 ## 🙏 Acknowledgments
 
@@ -374,4 +371,5 @@ afnan006-clynic_ai/
 [⭐ Star this repo](https://github.com/afnan006/clynic_ai) • [🐛 Report Bug](https://github.com/afnan006/clynic_ai/issues) • [💡 Request Feature](https://github.com/afnan006/clynic_ai/issues)
 
 </div>
+
 
